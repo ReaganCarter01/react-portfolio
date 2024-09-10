@@ -15,8 +15,7 @@
         "startDate": "In Progress",
         "description": "This application provides a comprehensive solution for tracking collectible cards and managing inventory.The application features a master template for cards and automatically calculates card values based on data from PriceCharting and TCGPlayer, delivering accurate inventory valuations in real-time.",
         "images": [
-          "images/portfolio/inventory-project/inventory-mangament.jpg",
-          "images/portfolio/inventory-project/inventory.jpg"
+          "images/portfolio/web-scraper/p1.jpg"
         ],
         "url": "",
         "technologies": [
