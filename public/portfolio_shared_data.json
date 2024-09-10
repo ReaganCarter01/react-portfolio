@@ -1,0 +1,109 @@
+{
+    "basic_info": {
+      "name": "Reagan Carter",
+      "titles": [ "Software Engineer", "Front-end Software Engineer", "QA Automation", "Performance Engineer" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/ReaganCarter01/react-portfolio",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/reagan-carter-66b055229/",
+          "class": "fab fa-linkedin"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "Angular",
+          "class": "devicon-angularjs-plain",
+          "level": "80"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain",
+          "level": "90"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-original",
+          "level": "80"
+        },
+        {
+          "name": "NodeJs",
+          "class": "devicon-nodejs-plain",
+          "level": "70"
+        },
+        {
+          "name": "Grafana",
+          "class": "devicon-grafana-plain",
+          "level": "70"
+        },
+        {
+          "name": "PostgreSQL",
+          "class": "devicon-postgresql-plain",
+          "level": "70"
+        },
+        {
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain",
+          "level": "70"
+        },
+        {
+          "name": "Docker",
+          "class": "devicon-docker-plain",
+          "level": "70"
+        },
+        {
+          "name": "Kubernetes",
+          "class": "devicon-kubernetes-plain",
+          "level": "70"
+        },
+        {
+          "name": "Git",
+          "class": "devicon-git-plain",
+          "level": "70"
+        },
+        {
+          "name": "GitHub",
+          "class": "devicon-github-plain",
+          "level": "70"
+        },
+  
+        {
+          "name": "Azure",
+          "class": "devicon-azure-plain",
+          "level": "70"
+        },
+        {
+          "name": "Java",
+          "class": "devicon-java-plain",
+          "level": "65"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        }
+      ]
+    }
+  }
