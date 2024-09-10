@@ -5,7 +5,7 @@
       "social": [
         {
           "name": "github",
-          "url": "https://github.com/ReaganCarter01/react-portfolio",
+          "url": "https://github.com/ReaganCarter01/portfolio",
           "class": "fab fa-github"
         },
         {
@@ -14,7 +14,7 @@
           "class": "fab fa-linkedin"
         }
       ],
-      "image": "portfolio/web-scraper/p1.jpg"
+      "image": "MyProfile.jpg"
     },
     "skills": {
       "icons": [
