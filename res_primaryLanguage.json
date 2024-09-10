@@ -62,7 +62,6 @@
         "startDate": "2019",
         "description": " I independently developed and deployed a website, CreedHelper, for a Pokémon contest I was involved in. This project was built using HTML, CSS, and JavaScript, demonstrating my capabilities in front-end development. The website, which has been in continuous use for over five years, is accessible at http://creedhelper.byethost7.com/?i=1. It offers an intuitive interface that connects with a specific API to fetch and display user data, primarily to calculate their box for trades. This functionality includes tracking player statistics and contest rankings, crucial for optimizing the user experience and maintaining engagement. This project not only refined my technical skills but also underscored my ability to develop practical and user-centric digital solutions.",
         "images": [
-          "images/portfolio/inventory-project/inventory-mangament.jpg",
            "images/portfolio/creed-helper/homepage.jpg"
         ],
         "url": "http://creedhelper.byethost7.com",
