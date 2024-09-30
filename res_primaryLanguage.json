@@ -1,144 +1,144 @@
 {
-    "basic_info": {
-      "description_header": "Hi, I'm Reagan Carter, a Software Engineer based in Austin, Texas!",
-      "description": "I specialize in building responsive, performance-optimized user interfaces with React and TypeScript, incorporating advanced state management techniques with Recoil. My background includes experience in performance engineering, where I worked with tools like JMeter and Selenium to ensure applications run smoothly at scale. I'm passionate about enhancing app performance and have worked on major migrations to Kubernetes, OCF, and Azure, while solving critical performance bottlenecks along the way. Thanks for checking out my portfolio! Feel free to reach out if you'd like to collaborate.",
-      "section_name": {
-        "about": "About me",
-        "projects": "Projects",
-        "skills": "Skills",
-        "experience": "Experience"
-      }
+  "basic_info": {
+    "description_header": "Hi, I'm Reagan Carter, a Software Engineer based in Austin, Texas!",
+    "description": "I specialize in building responsive, performance-optimized user interfaces with React and TypeScript, incorporating advanced state management techniques with Recoil. My background includes experience in performance engineering, where I worked with tools like JMeter and Selenium to ensure applications run smoothly at scale. I'm passionate about enhancing app performance and have worked on major migrations to Kubernetes, OCF, and Azure, while solving critical performance bottlenecks along the way. Thanks for checking out my portfolio! Feel free to reach out if you'd like to collaborate.",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Inventory Management System",
+      "startDate": "In Progress",
+      "description": "This application provides a comprehensive solution for tracking collectible cards and managing inventory.The application features a master template for cards and automatically calculates card values based on data from PriceCharting and TCGPlayer, delivering accurate inventory valuations in real-time.",
+      "images": [
+        "images/portfolio/inventory-project/inventory-mangament.jpg",
+        "images/portfolio/inventory-project/inventory.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-java-plain",
+          "name": "Java"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-postgresql-plain",
+          "name": "PostgreSQL"
+        }
+      ]
     },
-    "projects": [
-      {
-        "title": "Inventory Management System",
-        "startDate": "In Progress",
-        "description": "This application provides a comprehensive solution for tracking collectible cards and managing inventory.The application features a master template for cards and automatically calculates card values based on data from PriceCharting and TCGPlayer, delivering accurate inventory valuations in real-time.",
-        "images": [
-          "images/portfolio/inventory-project/inventory-mangament.jpg",
-          "images/portfolio/inventory-project/inventory.jpg"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-java-plain",
-            "name": "Java"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-react-plain",
-            "name": "React"
-          },
-          {
-            "class": "devicon-postgresql-plain",
-            "name": "PostgreSQL"
-          }
-        ]
-      },
-      {
-        "title": "Pokemon Card Price Monitor",
-        "startDate": "2024",
-        "description": "Developed a web scraping solution using Puppeteer to monitor the prices of Pokémon cards in real-time. Implemented concurrency to run multiple browser instances and used Nodemailer to send email alerts when card prices dropped below a specified threshold. The system scrapes prices at random intervals to mimic human behavior and ensures efficient resource usage by cleaning up temporary data post-scraping. This project showcases my skills in web scraping, automation, and concurrent programming in Node.js.",
-        "images": [
-          "images/portfolio/web-scraper/p1.jpg"
-        ],
-        "url": "https://github.com/CommitPending/TCGWebScrapper",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "Pokemon Creed Helper",
-        "startDate": "2019",
-        "description": " I independently developed and deployed a website, CreedHelper, for a Pokémon contest I was involved in. This project was built using HTML, CSS, and JavaScript, demonstrating my capabilities in front-end development. The website, which has been in continuous use for over five years, is accessible at http://creedhelper.byethost7.com/?i=1. It offers an intuitive interface that connects with a specific API to fetch and display user data, primarily to calculate their box for trades. This functionality includes tracking player statistics and contest rankings, crucial for optimizing the user experience and maintaining engagement. This project not only refined my technical skills but also underscored my ability to develop practical and user-centric digital solutions.",
-        "images": [
-           "images/portfolio/creed-helper/homepage.jpg",
-           "images/portfolio/creed-helper/tips.jpg"
-        ],
-        "url": "http://creedhelper.byethost7.com",
-        "technologies": [
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          },
-          {
-            "class": "devicon-html5-plain",
-          "name": "HTML 5"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "CSS 3"
-          }
-        ]
-      }
-    ],
-    "experience": [
-      {
-        "company": "General Motors",
-        "title": "Software Engineer",
-        "mainTech": [
-          "Decemeber 2023 - Auguest 2024"
-        ],
-        "technologies": [
-          "TypeScript",
-          "JavaScript",
-          "React",
-          "Jest",
-          "Selenium",
-          ".NET Core",
-          "C#",
-          "PostgreSQL",
-          "GitHub Workflow"
-        ]
-      },
-      {
-        "company": "General Motors",
-        "title": "Performance Engineer",
-        "mainTech": [
-          "April 2022 - Decemeber 2023"
-        ],
-        "technologies": [
-          "Java",
-          "C",
-          "JMeter",
-          "LoadRunner",
-          "Grafana",
-          "Dynatrace",
-          "Datadog",
-          "Kubernetes",
-          "OCF",
-          "Azure",
-          "CI/CD"
-        ]
-      },
-      {
-        "company": "Texas State University",
-        "title": "B.S. in Computer Science",
-        "mainTech": [
-          " June 2017 -  Decemeber 2021"
-        ],
-        "technologies": [
-          "REST API",
-          "React",
-          "JavaScript",
-          "C++",
-          "MongoDB",
-          "Java",
-          "Data Structures",
-          "MySQL",
-          "Assembly Language",
-          "HTML & CSS"
-        ]
-      }
-    ]
-  }
+    {
+      "title": "TCG Web Scraper",
+      "startDate": "2024",
+      "description": "Developed a web scraping solution using Puppeteer to monitor the prices of cards in real-time. Implemented concurrency to run multiple browser instances and used Nodemailer to send email alerts when card prices dropped below a specified threshold. The system scrapes prices at random intervals to mimic human behavior and ensures efficient resource usage by cleaning up temporary data post-scraping. This project showcases my skills in web scraping, automation, and concurrent programming in Node.js.",
+      "images": [
+        "images/portfolio/web-scraper/p1.jpg"
+      ],
+      "url": "https://github.com/CommitPending/TCG-Web-Scraper",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Pokemon Creed Helper",
+      "startDate": "2019",
+      "description": " I independently developed and deployed a website, CreedHelper, for a Pokémon contest I was involved in. This project was built using HTML, CSS, and JavaScript, demonstrating my capabilities in front-end development. The website, which has been in continuous use for over five years, is accessible at http://creedhelper.byethost7.com/?i=1. It offers an intuitive interface that connects with a specific API to fetch and display user data, primarily to calculate their box for trades. This functionality includes tracking player statistics and contest rankings, crucial for optimizing the user experience and maintaining engagement. This project not only refined my technical skills but also underscored my ability to develop practical and user-centric digital solutions.",
+      "images": [
+         "images/portfolio/creed-helper/homepage.jpg",
+         "images/portfolio/creed-helper/tips.jpg"
+      ],
+      "url": "http://creedhelper.byethost7.com",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-html5-plain",
+        "name": "HTML 5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS 3"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "General Motors",
+      "title": "Software Engineer",
+      "mainTech": [
+        "Decemeber 2023 - Auguest 2024"
+      ],
+      "technologies": [
+        "TypeScript",
+        "JavaScript",
+        "React",
+        "Jest",
+        "Selenium",
+        ".NET Core",
+        "C#",
+        "PostgreSQL",
+        "GitHub Workflow"
+      ]
+    },
+    {
+      "company": "General Motors",
+      "title": "Performance Engineer",
+      "mainTech": [
+        "April 2022 - Decemeber 2023"
+      ],
+      "technologies": [
+        "Java",
+        "C",
+        "JMeter",
+        "LoadRunner",
+        "Grafana",
+        "Dynatrace",
+        "Datadog",
+        "Kubernetes",
+        "OCF",
+        "Azure",
+        "CI/CD"
+      ]
+    },
+    {
+      "company": "Texas State University",
+      "title": "B.S. in Computer Science",
+      "mainTech": [
+        " June 2017 -  Decemeber 2021"
+      ],
+      "technologies": [
+        "REST API",
+        "React",
+        "JavaScript",
+        "C++",
+        "MongoDB",
+        "Java",
+        "Data Structures",
+        "MySQL",
+        "Assembly Language",
+        "HTML & CSS"
+      ]
+    }
+  ]
+}
